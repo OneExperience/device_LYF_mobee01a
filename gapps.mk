@@ -1,7 +1,8 @@
 
 #Messaging
 PRODUCT_PACKAGES += \
-    messaging
+    messaging \
+    WallpaperPicker
 
 
 # GAPPS
